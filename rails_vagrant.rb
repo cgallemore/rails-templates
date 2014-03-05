@@ -1,4 +1,4 @@
-file 'gitignore', <<-CODE
+file '.gitignore', <<-CODE
 /.bundle
 /.idea
 /.vagrant
